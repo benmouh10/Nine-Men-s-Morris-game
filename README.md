@@ -1,4 +1,5 @@
 Jeu de Moulin (Nine Men's Morris) en Langage C
+
 Ce projet est une implémentation numérique du Jeu de Moulin (également connu sous le nom de Nine Men's Morris), un jeu de stratégie classique pour deux joueurs. Développé en Langage C, il propose une interface en console structurée et plusieurs modes de jeu, allant du duel local à l'affrontement contre une intelligence artificielle avancée.
 
 🎮 Présentation du Jeu
